@@ -32,15 +32,6 @@
 | [🚀 FOI DADA A LARGADA! ](https://www.linkedin.com/posts/oguilhermecss_softwaredevelopment-bitcoin-blockexplorer-activity-7283987796556476416-fWJF/?utm_source=share&utm_medium=member_desktop)                     | Os Quebra Blocos   |
 | [Começando NX DOJO Bitcoin 101](https://www.linkedin.com/posts/vanessabarros-tech_come%C3%A7ando-nx-dojo-bitcoin-101-metas-do-dojo-activity-7282157167636287488-9U6H?utm_source=share&utm_medium=member_desktop)    | Lendas da Razão    |
 | [Learning about Bitcoin on Nearx DOJO](https://www.linkedin.com/posts/mauriciodoerr_bitcoin-regtest-node-with-always-free-oracle-activity-7283312672475860993--1iH?utm_source=share&utm_medium=member_desktop)      | Campeões do Cripto |
-
-## Semana 2 
-
-
-
-**⭐️ Engajamento**
-
-| Link do Post                                                                                                                                                                                                        | Equipe             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | [Challenge 1: Block Explorer](https://www.linkedin.com/feed/update/urn:li:activity:7284354684796964864/)      | Sindicado do Blockchain|
  | [Cronograma](https://www.linkedin.com/posts/emanoel-oliveira-br_dojo-bitcoin-nearx-activity-7284241022400827392-T7Bi?)      | Shi Satoshi|
 [O que já foi realizado](https://www.linkedin.com/posts/emanoel-oliveira-br_bitcoin-blockchain-inovaaexaeto-activity-7284398852554592256-H1qC/)      | Shi Satoshi|
@@ -49,6 +40,8 @@
  
 
 
+
+## Semana 2 [Coming soon]
 
 ## Semana 3 [Coming soon]
 
