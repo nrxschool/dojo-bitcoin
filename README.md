@@ -42,6 +42,7 @@
 | Link do Post                                                                                                                                                                                                        | Equipe                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [Dojo Bicoin - Desafio Wallet CLI](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7286739091105177603-g89o/)                                                 | Doidos Descentralizados |
+| [Dojo Bicoin - Desafio Wallet CLI - Atualização ](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7287805329881337856-U76z/)                                  | Doidos Descentralizados | 
 
 
 **✍️ Aula**
