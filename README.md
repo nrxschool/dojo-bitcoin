@@ -42,6 +42,7 @@
 | Link do Post                                                                                                                                                                                                        | Equipe                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [Dojo Bicoin - Desafio Wallet CLI](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7286739091105177603-g89o/)                                                 | Doidos Descentralizados |
+| [Dojo Bicoin - Desafio Wallet Desktop](https://www.linkedin.com/posts/luanhsl_python-bitcoin-oracle-activity-7288342746015166464-Bn9s?utm_source=share&utm_medium=member_desktop)                                   | Cruzado do Código       |
 
 
 **✍️ Aula**
