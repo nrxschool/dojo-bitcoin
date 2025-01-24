@@ -43,8 +43,15 @@
 | Link do Post                                                                                                                                                                                                        | Equipe                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [Dojo Bicoin - Desafio Wallet CLI](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7286739091105177603-g89o/)                                                 | Doidos Descentralizados |
+| [Dojo Bicoin - Desafio Wallet CLI - Atualização](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7287805329881337856-U76z/)                                  | Doidos Descentralizados | 
 | [Dojo Bicoin - Desafio Wallet Desktop](https://www.linkedin.com/posts/luanhsl_python-bitcoin-oracle-activity-7288342746015166464-Bn9s?utm_source=share&utm_medium=member_desktop)                                   | Cruzado do Código       |
 
+## ✅ Semana 3
+
+| Link do Post                                                                                                                                                                                                        | Equipe                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [🚀Bora desenvolver nossa Plataforma de Registro de Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-blockabrexplorer-activity-7288174718132609026-qoiq/)                   | Doidos Descentralizados |
+| [⚠️Iniciamos o projeto da Plataforma de Registro Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-bitcoin-activity-7288586026002898945-KWAZ/)                               | Doidos Descentralizados |
 
 **✍️ Aula**
 
