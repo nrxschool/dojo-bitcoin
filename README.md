@@ -52,6 +52,10 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [🚀Bora desenvolver nossa Plataforma de Registro de Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-blockabrexplorer-activity-7288174718132609026-qoiq/)                   | Doidos Descentralizados |
 | [⚠️Iniciamos o projeto da Plataforma de Registro Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-bitcoin-activity-7288586026002898945-KWAZ/)                               | Doidos Descentralizados |
+| [🏃Tá intensa a correria para desenvolver o projeto](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-dojoabrbitcoin-blockchainabrexplorer-activity-7290001007801999361-47gO/)                             | Doidos Descentralizados |
+| [🤺 Estamos quase lá!!!](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-dojoabrbitcoin-blockchainabrexplorer-activity-7291027252807454720-83Dz/)                                                         | Doidos Descentralizados |
+
+
 
 **✍️ Aula**
 
