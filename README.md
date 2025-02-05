@@ -38,20 +38,9 @@
 | [Dojo Bitcoin - Desafio Blockchain Explorer](https://www.linkedin.com/posts/kledenilson_doidosabrdescentralizados-nearx-bitcoin-activity-7285334686816440320-t_fu/)                                                 | Doidos Descentralizados |
 | [How to Set Up and Run a Bitcoin Node on Regtest Mode Using Linode](https://medium.com/@pavusa/how-to-set-up-and-run-a-bitcoin-node-on-regtest-mode-using-linode-508c355bf1c3)                                      |  Shi Satoshi             |
 
+---
+
 ## ✅ Semana 2
-
-| Link do Post                                                                                                                                                                                                        | Equipe                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [Dojo Bicoin - Desafio Wallet CLI](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7286739091105177603-g89o/)                                                 | Doidos Descentralizados |
-| [Dojo Bicoin - Desafio Wallet CLI - Atualização](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7287805329881337856-U76z/)                                  | Doidos Descentralizados | 
-| [Dojo Bicoin - Desafio Wallet Desktop](https://www.linkedin.com/posts/luanhsl_python-bitcoin-oracle-activity-7288342746015166464-Bn9s?utm_source=share&utm_medium=member_desktop)                                   | Cruzado do Código       |
-
-## ✅ Semana 3
-
-| Link do Post                                                                                                                                                                                                        | Equipe                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [🚀Bora desenvolver nossa Plataforma de Registro de Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-blockabrexplorer-activity-7288174718132609026-qoiq/)                   | Doidos Descentralizados |
-| [⚠️Iniciamos o projeto da Plataforma de Registro Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-bitcoin-activity-7288586026002898945-KWAZ/)                               | Doidos Descentralizados |
 
 **✍️ Aula**
 
@@ -71,16 +60,24 @@
 - **Dica 2:** [Biblioteca para integrar com Bitcoin Python (BitcoinLib)](https://github.com/1200wd/bitcoinlib)
 - **Dica 2:** [Biblioteca para integrar com Bitcoin Python (Bit)](https://ofek.dev/bit/)
 
-**⭐️ Engajamento**
+| Link do Post                                                                                                                                                                                                        | Equipe                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [Dojo Bicoin - Desafio Wallet CLI](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7286739091105177603-g89o/)                                                 | Doidos Descentralizados |
+| [Dojo Bicoin - Desafio Wallet CLI - Atualização](https://www.linkedin.com/posts/kledenilson_walletabrcli-blockchain-doidosabrdescentralizados-activity-7287805329881337856-U76z/)                                  | Doidos Descentralizados | 
+| [Dojo Bicoin - Desafio Wallet Desktop](https://www.linkedin.com/posts/luanhsl_python-bitcoin-oracle-activity-7288342746015166464-Bn9s?utm_source=share&utm_medium=member_desktop)                                   | Cruzado do Código       |
 
-| Link do Post | Equipe |
-| ------------ | ------ |
+| Artigos                                                                                                                                                                                                        | Aluno                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [How To Integrate Vue Js With Your Bitcoin Api Server](https://medium.com/@pavusa/how-to-integrate-vue-js-with-your-bitcoin-api-server-9a30118b16ab) | Rob DC                   |
+| [How To Create Your Own Bitcoin Api Server Using Flask](https://medium.com/@pavusa/how-to-create-your-own-bitcoin-api-server-using-flask-7023d2f55ae4) | Rob DC                   |
 
 ---
 
-## ⏰ Semana 3
+## ✅ Semana 3
 
 **✍️ Aula**
+
+- [Vídeo da Aula 3](https://youtu.be/-iinbu4NY3k)
 
 - Introdução ao Bitcoin Script: como criar scripts personalizados.
 - Gerando transações customizadas com SDK Bitcoin.
@@ -132,6 +129,17 @@ Backend->>Frontend: Atualiza Status: "Minerado Confimada"
 Frontend->>Frontend: Atualiza Status: "Mineração Confimada"
 Frontend->>User: Link para Documento na Blockchain
 ```
+
+
+**⭐️ Engajamento**
+
+| Link do Post                                                                                                                                                                                                        | Equipe                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [🚀Bora desenvolver nossa Plataforma de Registro de Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-blockabrexplorer-activity-7288174718132609026-qoiq/)                   | Doidos Descentralizados |
+| [⚠️Iniciamos o projeto da Plataforma de Registro Direitos Autorais](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-blockchaini-bitcoin-activity-7288586026002898945-KWAZ/)                               | Doidos Descentralizados |
+| [🆕 Atualizações Semana 3️⃣ do hashtag#Dojo_Bitcoin da Nearx! 🌐 ](https://www.linkedin.com/posts/kledenilson_dojoabrbitcoin-dojoabrbitcoin-blockchainabrexplorer-activity-7290001007801999361-47gO/)                               | Doidos Descentralizados |
+| [Plataforma de Direitos Autorais na Rede do Bitcoin!!](https://www.linkedin.com/posts/marciomoraisoficial_cruzadadocodigo-nearx-nearx-activity-7290482352135299072-RRnL/?utm_source=share&utm_medium=member_desktop)                               | Cruzada do Código |
+| [Galera, a semana tá insanaaa!!!! Nosso Grupo @CruzadadoCodigo, tá ON!!!](https://www.linkedin.com/posts/marciomoraisoficial_nearx-app-app-activity-7289972327520301056-PElj/?utm_source=share&utm_medium=member_desktop)                               | Cruzada do Código |
 
 ---
 
