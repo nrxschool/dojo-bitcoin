@@ -176,3 +176,12 @@ Frontend->>User: Link para Documento na Blockchain
   - Implementar um contrato taproot para os NFTs
   - Criar uma plataforma para os usuários visualizarem seus Assets.
 - Documentar e compartilhar a trajetória no LinkedIn ou Twitter.
+
+---
+
+# 💡 Este repositório é parte dos cursos, workshops ou bootcamps da NearX School.
+
+Quer acompanhar a aula completa em vídeo e entrar na comunidade? 
+👉 https://nearx.com.br/register | Comunidade: https://discord.com/invite/wavXA98gd8
+
+_NearX School: Aprenda o futuro, hoje._
